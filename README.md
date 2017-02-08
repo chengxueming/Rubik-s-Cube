@@ -1,6 +1,8 @@
 # Rubik-s-Cube
 >在sketchup中还原一个魔方模型  
 >[算法参考文章](http://www.360doc.cn/article/1690118_212091558.html)
+><br>
+>[演示视频](http://v.youku.com/v_show/id_XMjUwMjQxMzY4MA==.html)
 
  <img src="https://raw.githubusercontent.com/chengxueming/Rubik-s-Cube/master/model/res/cube.png" width = "300" height = "200" alt="图片名称" align=center />
  <br>
@@ -12,4 +14,4 @@
  <br>
 还原第二层和第三层棱处的功能尚不完善
 只能还原部分情况
-http://v.youku.com/v_show/id_XMjUwMjQxMzY4MA==.html
+
